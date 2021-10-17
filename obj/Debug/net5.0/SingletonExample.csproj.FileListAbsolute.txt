@@ -1,0 +1,15 @@
+/Users/hubertchen/Repo/SingletonExample/bin/Debug/net5.0/SingletonExample.deps.json
+/Users/hubertchen/Repo/SingletonExample/bin/Debug/net5.0/SingletonExample.runtimeconfig.json
+/Users/hubertchen/Repo/SingletonExample/bin/Debug/net5.0/SingletonExample.runtimeconfig.dev.json
+/Users/hubertchen/Repo/SingletonExample/bin/Debug/net5.0/SingletonExample.dll
+/Users/hubertchen/Repo/SingletonExample/bin/Debug/net5.0/ref/SingletonExample.dll
+/Users/hubertchen/Repo/SingletonExample/bin/Debug/net5.0/SingletonExample.pdb
+/Users/hubertchen/Repo/SingletonExample/obj/Debug/net5.0/SingletonExample.csprojAssemblyReference.cache
+/Users/hubertchen/Repo/SingletonExample/obj/Debug/net5.0/SingletonExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hubertchen/Repo/SingletonExample/obj/Debug/net5.0/SingletonExample.AssemblyInfoInputs.cache
+/Users/hubertchen/Repo/SingletonExample/obj/Debug/net5.0/SingletonExample.AssemblyInfo.cs
+/Users/hubertchen/Repo/SingletonExample/obj/Debug/net5.0/SingletonExample.csproj.CoreCompileInputs.cache
+/Users/hubertchen/Repo/SingletonExample/obj/Debug/net5.0/SingletonExample.dll
+/Users/hubertchen/Repo/SingletonExample/obj/Debug/net5.0/ref/SingletonExample.dll
+/Users/hubertchen/Repo/SingletonExample/obj/Debug/net5.0/SingletonExample.pdb
+/Users/hubertchen/Repo/SingletonExample/obj/Debug/net5.0/SingletonExample.genruntimeconfig.cache
