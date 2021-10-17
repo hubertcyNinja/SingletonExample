@@ -8,28 +8,31 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/hubertchen/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Hubert\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hubertchen/Repo/SingletonExample/SingletonExample.csproj",
+      "projectUniqueName": "C:\\Users\\Hubert\\Documents\\Repo\\SingletonExample\\SingletonExample.csproj",
       "projectName": "SingletonExample",
-      "projectPath": "/Users/hubertchen/Repo/SingletonExample/SingletonExample.csproj",
-      "packagesPath": "/Users/hubertchen/.nuget/packages/",
-      "outputPath": "/Users/hubertchen/Repo/SingletonExample/obj/",
+      "projectPath": "C:\\Users\\Hubert\\Documents\\Repo\\SingletonExample\\SingletonExample.csproj",
+      "packagesPath": "C:\\Users\\Hubert\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hubert\\Documents\\Repo\\SingletonExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "/Users/hubertchen/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Hubert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
