@@ -7,16 +7,19 @@ namespace SingletonExample
         private IRHeater(){}
 
         private static IRHeater _instance;
-
+        private static readonly object padlock = new object();
         public static IRHeater Instance
         {
             get
             {
-                if(_instance == null)
+                lock (padlock)
                 {
-                    _instance = new IRHeater();
+                    if (_instance == null)
+                    {
+                        _instance = new IRHeater();
+                    }
+                    return _instance;
                 }
-                return _instance;
             }
         }
     }
