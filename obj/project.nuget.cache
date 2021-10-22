@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c9FDKE6VeYe02XaCwhvbxx2FffZPL6SBvGMEbVnpVjDIqTUzFrVchOPgTbmcEPIdop/DHP8NovmjHjyLzu7npA==",
+  "dgSpecHash": "Uu1rYu6/+Re+T3HFLNiERYO8y7YOxw5/RG6FP4nfydsFb/gx9f1ByS+uWmTumw9IF9QnjxuRWZSDfR74B3viuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hubert\\Documents\\Repo\\SingletonExample\\SingletonExample.csproj",
+  "projectFilePath": "/home/hubertchen/repo/SingletonExample/SingletonExample/SingletonExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
